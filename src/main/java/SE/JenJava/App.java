@@ -5,6 +5,6 @@ package SE.JenJava;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hai, I have done modifications in Jenmave java");
+        System.out.println("Hai, This is Jenmaven java");
     }
 }
